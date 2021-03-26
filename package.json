@@ -1,0 +1,21 @@
+{
+	"dependencies": {
+		"@types/node-fetch": "^2.5.8",
+		"axios": "^0.21.1",
+		"discord-rpc": "github:discordjs/discord-rpc",
+		"events": "^3.3.0",
+		"node-fetch": "^2.6.1"
+	},
+	"devDependencies": {
+		"@types/discord-rpc": "^3.0.5"
+	},
+	"name": "last.fm",
+	"version": "1.0.0",
+	"description": "A last.fm rich presence",
+	"main": "index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Xiboon",
+	"license": "GPL-3.0"
+}
