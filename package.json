@@ -1,13 +1,12 @@
 {
 	"dependencies": {
-		"@types/node-fetch": "^2.5.8",
 		"axios": "^0.21.1",
 		"discord-rpc": "github:discordjs/discord-rpc",
-		"events": "^3.3.0",
-		"node-fetch": "^2.6.1"
+		"tcp-port-used": "^1.0.2"
 	},
 	"devDependencies": {
-		"@types/discord-rpc": "^3.0.5"
+		"@types/discord-rpc": "^3.0.5",
+		"@types/tcp-port-used": "^1.0.0"
 	},
 	"name": "last.fm",
 	"version": "1.0.0",
